@@ -1,0 +1,51 @@
+body{
+    background-color:white;
+    margin: 200px 500px;
+    border-color: black;
+    border: 20%;
+    position: fixed;
+}
+
+h1  {
+    color: black;
+    margin: 100px;
+    position:relative;
+    left: 62px;
+}
+
+h2 {
+    color: black;
+    position:fixed;
+    left: 45.8%;
+    top: 78%;
+}
+
+.up {
+    background-color: orange;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+}
+
+.middle {
+    background-color: white;
+    height: 90px;
+    width: 400px;
+    position: relative;
+    top: 76px;
+}
+
+.down {
+    background-color: greenyellow;
+    height: 90px;
+    width: 400px;
+    position: relative;
+    top: 76px;
+}
+
+img {
+    height: 90px;
+    width: 70;
+    margin-left: 160px;
+    margin-right: 150px;
+}
